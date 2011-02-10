@@ -34,3 +34,6 @@
 [submodule "bundle/htip"]
 	path = bundle/htip
 	url = https://github.com/vim-scripts/htip.git
+[submodule "bundle/unimpaired"]
+	path = bundle/unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
