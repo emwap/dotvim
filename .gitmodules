@@ -22,3 +22,6 @@
 [submodule "bundle/haskell.vim"]
 	path = bundle/haskell.vim
 	url = https://github.com/vim-scripts/haskell.vim.git
+[submodule "bundle/shim"]
+	path = bundle/shim
+	url = https://github.com/vim-scripts/Superior-Haskell-Interaction-Mode-SHIM.git
