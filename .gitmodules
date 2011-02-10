@@ -28,3 +28,6 @@
 [submodule "bundle/cabal"]
 	path = bundle/cabal
 	url = https://github.com/vim-scripts/Cabal.vim.git
+[submodule "bundle/hlint"]
+	path = bundle/hlint
+	url = https://github.com/vim-scripts/hlint.git
