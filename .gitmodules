@@ -25,3 +25,6 @@
 [submodule "bundle/shim"]
 	path = bundle/shim
 	url = https://github.com/vim-scripts/Superior-Haskell-Interaction-Mode-SHIM.git
+[submodule "bundle/cabal"]
+	path = bundle/cabal
+	url = https://github.com/vim-scripts/Cabal.vim.git
