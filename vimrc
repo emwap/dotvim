@@ -6,7 +6,7 @@ filetype plugin on
 
 set ignorecase
 set smartcase
-set incserach
+set incsearch
 
 set mouse=a
 set tabstop=2
